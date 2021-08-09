@@ -1,0 +1,978 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Arile Extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-30 09:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: arile-extra"
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:114
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:130
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:146
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:167
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:179
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:191
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:66
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:82
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:98
+#: inc/consultstreet/front-page/extra-consultstreet-testimonial.php:67
+#: inc/designexo/front-page/extra-designexo-testimonial.php:78
+#: inc/designexo/front-page/extra-designexo-testimonial.php:94
+#: inc/designexo/front-page/extra-designexo-testimonial.php:110
+msgid ""
+"\"You guys are legendary! You guys are great and having amazing support & "
+"service. I couldn’t ask for any better. Thank you!\""
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:46
+#: inc/consultstreet/front-page/extra-consultstreet-theme-info.php:62
+msgid "014 1547 925 - 123 4567 890"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:100
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:55
+msgid "18 years of experience"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:93
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:45
+msgid "24/7 Support"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:159
+#: inc/consultstreet/front-page/extra-consultstreet-theme-info.php:71
+msgid "25 years of experience"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:292
+#: inc/arilewp/front-page/extra-arilewp-blog.php:4
+msgid "<b>Our Latest</b> News"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:229
+#: inc/arilewp/front-page/extra-arilewp-project.php:6
+msgid "<b>Recent</b> Projects"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:197
+#: inc/arilewp/front-page/extra-arilewp-service.php:5
+msgid "<b>We provide the</b> best services"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:261
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:5
+msgid "<b>What clients</b>  are say"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:138
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:60
+msgid "Add new info"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:112
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:189
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:109
+msgid "Add new project item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:86
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:162
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:82
+msgid "Add new service item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:35
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:114
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:35
+msgid "Add new slide item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:135
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:212
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:132
+msgid "Add new testimonial item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:63
+msgid "Add new theme info"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:338
+#: inc/designexo/front-page/extra-designexo-project.php:116
+msgid "Adventures"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-project.php:7
+msgid "ALL INTERIOR DESIGN SOLUTIONS"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-service.php:107
+msgid "ARCHITECTURAL DESIGN"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:167
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:205
+msgid "Architectural Design"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:321
+#: inc/designexo/front-page/extra-designexo-project.php:92
+msgid "ARCHITECTURE DESIGN"
+msgstr ""
+
+#. Name of the plugin
+msgid "Arile Extra"
+msgstr ""
+
+#. Description of the plugin
+msgid "Arile Extra Enhances ThemeArile with additional functionality."
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:88
+#: inc/designexo/front-page/extra-designexo-theme-info.php:47
+msgid "Award Winning Solutions"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:116
+#: inc/designexo/front-page/extra-designexo-theme-info.php:86
+msgid "Award winning solutions"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:150
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:147
+msgid "Background Image"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:309
+#: inc/designexo/front-page/extra-designexo-project.php:70
+msgid "BEDROOM LIGHTING DÉCOR"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-slider.php:76
+msgid "Best Digital Marketing Solutions"
+msgstr ""
+
+#: inc/arile-extra-activator.php:20
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:158
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:244
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:155
+msgid "Blog"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:42
+#: inc/consultstreet/customizer/sections/extra-consultstreet-blog-customizer-settings.php:41
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:41
+msgid "Blog Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:55
+msgid "Blog Meta Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:28
+#: inc/consultstreet/customizer/sections/extra-consultstreet-blog-customizer-settings.php:28
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:28
+msgid "Blog Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:234
+#: inc/arilewp/front-page/extra-arilewp-project.php:98
+msgid "Business Solutions"
+msgstr ""
+
+#: inc/consultstreet/customizer/sections/extra-consultstreet-cta-customizer-settings.php:56
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:73
+msgid "Button Link"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-blog.php:63
+#: inc/designexo/front-page/extra-designexo-blog.php:61
+msgid "by "
+msgstr ""
+
+#: inc/consultstreet/customizer/sections/extra-consultstreet-cta-customizer-settings.php:28
+msgid "Call to Action Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:57
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:66
+#: inc/arilewp/front-page/extra-arilewp-slider.php:63
+#: inc/arilewp/front-page/extra-arilewp-slider.php:79
+#: inc/arilewp/front-page/extra-strangerwp-slider.php:97
+#: inc/arilewp/front-page/extra-strangerwp-slider.php:113
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:112
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:121
+#: inc/consultstreet/front-page/extra-consultstreet-slider.php:79
+#: inc/consultstreet/front-page/extra-consultstreet-slider.php:94
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:23
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:33
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:49
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:59
+#: inc/designexo/front-page/extra-designexo-slider.php:66
+#: inc/designexo/front-page/extra-designexo-slider.php:81
+#: inc/designexo/front-page/extra-designexo-slider.php:99
+#: inc/designexo/front-page/extra-designexo-slider.php:114
+msgid "Check it out"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:165
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:251
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:162
+msgid "Choose Blog Category"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:48
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:58
+#: inc/designexo/front-page/extra-designexo-slider.php:97
+#: inc/designexo/front-page/extra-designexo-slider.php:112
+msgid ""
+"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per "
+"inceptos himenaeos. Suspendisse potenti. Interdum et malesuada fames ac ante "
+"ipsum. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum."
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-slider.php:77
+msgid "Classy Renovation"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:240
+#: inc/arilewp/front-page/extra-arilewp-project.php:109
+msgid "Consultant"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-theme-info.php:75
+msgid "Contact us"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:72
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:58
+#: inc/consultstreet/customizer/sections/extra-consultstreet-project-customizer-settings.php:58
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:58
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:58
+msgid "Container"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:73
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:59
+#: inc/consultstreet/customizer/sections/extra-consultstreet-project-customizer-settings.php:59
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:59
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:59
+msgid "Container Full"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-blog-customizer-settings.php:69
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:55
+#: inc/consultstreet/customizer/sections/extra-consultstreet-project-customizer-settings.php:55
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:55
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:55
+msgid "Container Width"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:251
+#: inc/designexo/front-page/extra-designexo-service.php:150
+msgid "Creative design"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-testimonial.php:118
+msgid "Designer"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:252
+#: inc/arilewp/front-page/extra-arilewp-project.php:131
+msgid "Digital Marketing"
+msgstr ""
+
+#: inc/consultstreet/customizer/sections/extra-consultstreet-cta-customizer-settings.php:42
+#: inc/designexo/customizer/sections/extra-designexo-theme-info-customizer-settings.php:42
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:31
+msgid "Enjoy Your Space"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:357
+#: inc/designexo/front-page/extra-designexo-project.php:153
+msgid "Entertainment"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:94
+#: inc/designexo/front-page/extra-designexo-theme-info.php:56
+msgid "Exclusive 10 Years Warranty"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:142
+#: inc/consultstreet/front-page/extra-consultstreet-theme-info.php:52
+msgid "Expert Instruction"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-service.php:116
+msgid "EXTERIOR DESIGN"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:177
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:215
+msgid "Exterior Design"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:315
+#: inc/designexo/front-page/extra-designexo-project.php:81
+msgid "EXTERIOR RENOVATION"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:351
+#: inc/designexo/front-page/extra-designexo-project.php:141
+msgid "Fashion photography"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:350
+#: inc/designexo/front-page/extra-designexo-project.php:140
+msgid "Fashion store"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:279
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:138
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:181
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:387
+#: inc/designexo/front-page/extra-designexo-testimonial.php:102
+msgid "Financer"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:143
+#: inc/consultstreet/front-page/extra-consultstreet-theme-info.php:53
+msgid "Find the right instructor for you"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:272
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:122
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:169
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:334
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:345
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:352
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:359
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:74
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:90
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:106
+#: inc/consultstreet/front-page/extra-consultstreet-testimonial.php:69
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:380
+#: inc/designexo/front-page/extra-designexo-testimonial.php:86
+msgid "Founder"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:19
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:58
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:19
+msgid "Frontpage Sections"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-theme-info.php:74
+msgid "Get a personal estimate"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:20
+#: inc/designexo/front-page/extra-designexo-slider.php:63
+msgid "Great Creative Designs"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:233
+#: inc/designexo/front-page/extra-designexo-service.php:128
+msgid "Great typography"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-testimonial.php:9
+msgid "Happy clients say"
+msgstr ""
+
+#: inc/arile-extra-activator.php:20
+msgid "Home"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themearile.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themearile.com/arilewp/"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:57
+#: inc/designexo/front-page/extra-designexo-slider.php:110
+msgid "I don’t trust words. I trust pictures"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:345
+#: inc/designexo/front-page/extra-designexo-project.php:129
+msgid "Illustration"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-theme-info-customizer-settings.php:53
+#: inc/consultstreet/customizer/sections/extra-consultstreet-theme-info-customizer-settings.php:52
+#: inc/designexo/customizer/sections/extra-designexo-theme-info-customizer-settings.php:52
+msgid "Info"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:139
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:61
+msgid "Info Item"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:136
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:58
+msgid "Info Items Content"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-service.php:98
+msgid "INTERIOR DESIGN"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:21
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:157
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:195
+#: inc/designexo/front-page/extra-designexo-slider.php:62
+msgid "Interior Design"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:153
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:192
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:105
+#: inc/designexo/front-page/extra-designexo-testimonial.php:117
+msgid "Julia Cloe"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:117
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:123
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:129
+#: inc/designexo/front-page/extra-designexo-theme-info.php:87
+#: inc/designexo/front-page/extra-designexo-theme-info.php:96
+#: inc/designexo/front-page/extra-designexo-theme-info.php:105
+msgid "Know more"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:387
+#: inc/consultstreet/front-page/extra-consultstreet-blog.php:3
+msgid "Latest News"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:278
+#: inc/designexo/front-page/extra-designexo-service.php:183
+msgid "Live customizer"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:30
+msgid "Living Area Redesign"
+msgstr ""
+
+#: inc/consultstreet/front-page/extra-consultstreet-service.php:137
+#: inc/consultstreet/front-page/extra-consultstreet-service.php:150
+#: inc/consultstreet/front-page/extra-consultstreet-service.php:163
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit quos dolor quas "
+"molesty."
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:293
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:299
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:305
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:311
+#: inc/consultstreet/front-page/extra-consultstreet-project.php:104
+#: inc/consultstreet/front-page/extra-consultstreet-project.php:116
+#: inc/consultstreet/front-page/extra-consultstreet-project.php:128
+#: inc/consultstreet/front-page/extra-consultstreet-project.php:140
+msgid ""
+"Lorem ipsum dolor sit amet, sit sit consectetuer, etiam metus arcu ultrices "
+"eros, nam gravida et dapibus."
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-service.php:125
+#: inc/arilewp/front-page/extra-arilewp-service.php:143
+#: inc/arilewp/front-page/extra-arilewp-service.php:161
+msgid ""
+"Lorem Ipsum is simply text of the printing and typesetting industry. Lorem "
+"ipsum has been dummy."
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-service.php:99
+#: inc/designexo/front-page/extra-designexo-service.php:108
+#: inc/designexo/front-page/extra-designexo-service.php:117
+#: inc/designexo/front-page/extra-designexo-service.php:129
+#: inc/designexo/front-page/extra-designexo-service.php:140
+#: inc/designexo/front-page/extra-designexo-service.php:151
+#: inc/designexo/front-page/extra-designexo-service.php:162
+#: inc/designexo/front-page/extra-designexo-service.php:173
+#: inc/designexo/front-page/extra-designexo-service.php:184
+msgid ""
+"Lorem Ipsum is simply text of the printing and typesetting industry. Lorem "
+"Ipsum has been standard dummy."
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:24
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:103
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:24
+msgid "Main Slider"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:46
+#: inc/designexo/front-page/extra-designexo-slider.php:96
+msgid "May your choices reflect your hopes, not your fears"
+msgstr ""
+
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:72
+msgid "Meta Date Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:137
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:180
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:89
+#: inc/designexo/front-page/extra-designexo-testimonial.php:101
+msgid "Mitchell Harris"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:100
+#: inc/designexo/front-page/extra-designexo-theme-info.php:65
+msgid "Modern Interior Projects"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:327
+#: inc/designexo/front-page/extra-designexo-project.php:103
+msgid "MODULAR KITCHEN DESIGN"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:339
+#: inc/designexo/front-page/extra-designexo-project.php:117
+msgid "Mountain climbing"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:121
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:168
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:73
+#: inc/consultstreet/front-page/extra-consultstreet-testimonial.php:68
+#: inc/designexo/front-page/extra-designexo-testimonial.php:85
+msgid "Olivia Kevinson"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:128
+#: inc/designexo/front-page/extra-designexo-theme-info.php:104
+msgid "Online media marketing"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:246
+#: inc/arilewp/front-page/extra-arilewp-project.php:120
+msgid "Online Store"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:311
+#: inc/designexo/front-page/extra-designexo-blog.php:4
+msgid "Our latest news"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-project.php:10
+msgid "Our latest works"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:214
+#: inc/arilewp/front-page/extra-arilewp-project.php:5
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:215
+#: inc/designexo/front-page/extra-designexo-project.php:5
+msgid "Our Portfolio"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:183
+#: inc/arilewp/front-page/extra-arilewp-service.php:4
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:178
+#: inc/designexo/front-page/extra-designexo-service.php:4
+msgid "Our Services"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:89
+#: inc/designexo/front-page/extra-designexo-theme-info.php:48
+msgid "Our unique offer"
+msgstr ""
+
+#: inc/designexo/customizer/sections/extra-designexo-slider-customizer-settings.php:55
+#: inc/designexo/customizer/sections/extra-designexo-testimonial-customizer-settings.php:54
+msgid "Overlay Enable/Disable"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:56
+#: inc/designexo/front-page/extra-designexo-slider.php:111
+msgid "Photography is the story I fail to put into words"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:344
+#: inc/designexo/front-page/extra-designexo-project.php:128
+msgid "Photography portfolio"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:269
+#: inc/designexo/front-page/extra-designexo-service.php:172
+msgid "Premium quality"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:150
+#: inc/consultstreet/front-page/extra-consultstreet-theme-info.php:61
+msgid "Premium Support"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:100
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:177
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:97
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:69
+#: inc/consultstreet/customizer/sections/extra-consultstreet-blog-customizer-settings.php:51
+#: inc/consultstreet/customizer/sections/extra-consultstreet-project-customizer-settings.php:69
+#: inc/designexo/customizer/sections/extra-designexo-blog-customizer-settings.php:82
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:83
+msgid "Project"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:41
+#: inc/consultstreet/customizer/sections/extra-consultstreet-project-customizer-settings.php:41
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:41
+msgid "Project Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:113
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:190
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:110
+msgid "Project Item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:109
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:186
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:106
+msgid "Project Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-project-customizer-settings.php:28
+#: inc/consultstreet/customizer/sections/extra-consultstreet-project-customizer-settings.php:28
+#: inc/designexo/customizer/sections/extra-designexo-project-customizer-settings.php:28
+msgid "Project Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:154
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:165
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:176
+#: inc/arilewp/front-page/extra-arilewp-blog.php:74
+#: inc/consultstreet/front-page/extra-consultstreet-blog.php:65
+#: inc/consultstreet/front-page/extra-consultstreet-blog.php:100
+#: inc/designexo/front-page/extra-designexo-blog.php:69
+msgid "Read More"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:278
+#: inc/arilewp/front-page/extra-arilewp-blog.php:3
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:297
+#: inc/designexo/front-page/extra-designexo-blog.php:3
+msgid "Recent Updates"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:286
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:154
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:193
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:394
+msgid "Sales Manager"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:122
+#: inc/designexo/front-page/extra-designexo-theme-info.php:95
+msgid "Saving and strategy"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:203
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:235
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:267
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:298
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:312
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:344
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:376
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:407
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:204
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:238
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:286
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:317
+msgid "Section Description"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:189
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:220
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:252
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:284
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:298
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:329
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:361
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:393
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:184
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:221
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:269
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:303
+msgid "Section Title"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:101
+#: inc/designexo/front-page/extra-designexo-theme-info.php:66
+msgid "See our works"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:260
+#: inc/designexo/front-page/extra-designexo-service.php:161
+msgid "SEO optimized"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:74
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:150
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:70
+#: inc/consultstreet/customizer/sections/extra-consultstreet-service-customizer-settings.php:53
+#: inc/designexo/customizer/sections/extra-designexo-service-customizer-settings.php:51
+msgid "Service"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-service-customizer-settings.php:43
+#: inc/consultstreet/customizer/sections/extra-consultstreet-service-customizer-settings.php:43
+#: inc/designexo/customizer/sections/extra-designexo-service-customizer-settings.php:41
+msgid "Service Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:87
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:163
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:83
+msgid "Service Item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:83
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:159
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:79
+msgid "Service Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-service-customizer-settings.php:30
+#: inc/consultstreet/customizer/sections/extra-consultstreet-service-customizer-settings.php:30
+#: inc/designexo/customizer/sections/extra-designexo-service-customizer-settings.php:28
+msgid "Service Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:36
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:115
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:36
+msgid "Slide Item"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-slider-customizer-settings.php:42
+#: inc/consultstreet/customizer/sections/extra-consultstreet-slider-customizer-settings.php:42
+#: inc/designexo/customizer/sections/extra-designexo-slider-customizer-settings.php:42
+msgid "Slider Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:33
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:112
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:33
+msgid "Slider Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-slider-customizer-settings.php:28
+#: inc/consultstreet/customizer/sections/extra-consultstreet-slider-customizer-settings.php:28
+#: inc/designexo/customizer/sections/extra-designexo-slider-customizer-settings.php:28
+msgid "Slider Options"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-slider-customizer-settings.php:65
+#: inc/consultstreet/customizer/sections/extra-consultstreet-slider-customizer-settings.php:81
+#: inc/designexo/customizer/sections/extra-designexo-slider-customizer-settings.php:65
+msgid "Slides"
+msgstr ""
+
+#: inc/consultstreet/customizer/sections/extra-consultstreet-top-header-customizer-settings.php:106
+msgid "Social Icons"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:401
+#: inc/consultstreet/front-page/extra-consultstreet-blog.php:4
+msgid ""
+"Stay updated with the latest news by reading our articles written by content "
+"writers in the industry."
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-slider.php:78
+msgid "Style & Confort"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:123
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:200
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:120
+#: inc/arilewp/customizer/sections/extra-arilewp-testimonial-customizer-settings.php:64
+#: inc/consultstreet/customizer/sections/extra-consultstreet-testimonial-customizer-settings.php:51
+#: inc/designexo/customizer/sections/extra-designexo-testimonial-customizer-settings.php:64
+msgid "Testimonial"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-testimonial-customizer-settings.php:41
+#: inc/consultstreet/customizer/sections/extra-consultstreet-testimonial-customizer-settings.php:41
+#: inc/designexo/customizer/sections/extra-designexo-testimonial-customizer-settings.php:41
+msgid "Testimonial Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:136
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:213
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:133
+msgid "Testimonial Item"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:133
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:210
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:130
+msgid "Testimonial Items Content"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-testimonial-customizer-settings.php:28
+#: inc/consultstreet/customizer/sections/extra-consultstreet-testimonial-customizer-settings.php:28
+#: inc/designexo/customizer/sections/extra-designexo-testimonial-customizer-settings.php:28
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:246
+#: inc/arilewp/front-page/extra-arilewp-testimonial.php:4
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:355
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:4
+#: inc/consultstreet/front-page/extra-consultstreet-testimonial.php:4
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:263
+#: inc/designexo/front-page/extra-designexo-testimonial.php:4
+msgid "Testimonials"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:64
+msgid "Theme Info"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:52
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:127
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:49
+msgid "Theme Info Area"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-theme-info-customizer-settings.php:42
+msgid "Theme Info Area Enable/Disable"
+msgstr ""
+
+#: inc/arilewp/customizer/sections/extra-arilewp-theme-info-customizer-settings.php:29
+#: inc/designexo/customizer/sections/extra-designexo-theme-info-customizer-settings.php:29
+msgid "Theme Info Area Options"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-options.php:61
+msgid "Theme Info Content"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeArile"
+msgstr ""
+
+#: inc/consultstreet/customizer/sections/extra-consultstreet-top-header-customizer-settings.php:96
+msgid "Top Header Info"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:356
+#: inc/designexo/front-page/extra-designexo-project.php:152
+msgid "Tour & travels"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:242
+#: inc/designexo/front-page/extra-designexo-service.php:139
+msgid "Translations"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:87
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:36
+msgid "Trusted Services"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-options.php:252
+msgid "View All Button Text"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-project.php:12
+msgid "VIEW ALL PROJECTS"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:88
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:37
+msgid "We are trusted our customers"
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:56
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:65
+#: inc/arilewp/front-page/extra-arilewp-slider.php:61
+#: inc/arilewp/front-page/extra-arilewp-slider.php:77
+#: inc/arilewp/front-page/extra-strangerwp-slider.php:95
+#: inc/arilewp/front-page/extra-strangerwp-slider.php:111
+msgid ""
+"We are very happy to present to you ArileWP, the powerful and flexible multi-"
+"purpose WordPress theme. Not only does ArileWP outstand with many new "
+"features but suitable for all creatives and businesses. Join 2500+ customers."
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-service.php:6
+msgid "We build creative interior design"
+msgstr ""
+
+#: inc/arilewp/front-page/extra-arilewp-slider.php:60
+msgid "We Create Amazing WordPress Themes"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-service.php:9
+msgid "We offer many services to growth"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:22
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:32
+#: inc/designexo/front-page/extra-designexo-slider.php:64
+#: inc/designexo/front-page/extra-designexo-slider.php:79
+msgid ""
+"We provide all types of interior and architecture design services such as "
+"exterior design, kitchen design, room design, furniture design, light design,"
+" etc. With the help of which you can build your dream home."
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:111
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:120
+#: inc/consultstreet/front-page/extra-consultstreet-slider.php:77
+#: inc/consultstreet/front-page/extra-consultstreet-slider.php:92
+msgid ""
+"We provide world best consulting services for our clients to grow their "
+"businesses, so dont waste your time, contact us and see the results "
+"instantly."
+msgstr ""
+
+#: inc/arilewp/customizer/extra-arilewp-customizer-default.php:99
+#: inc/arilewp/front-page/extra-arilewp-siteinfo.php:54
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-default.php:158
+#: inc/consultstreet/front-page/extra-consultstreet-theme-info.php:70
+msgid "Well Experienced"
+msgstr ""
+
+#: inc/designexo/front-page/extra-designexo-testimonial.php:6
+msgid "WHAT OUR CLIENTS SAY ABOUT US"
+msgstr ""
+
+#: inc/consultstreet/customizer/extra-consultstreet-customizer-options.php:370
+#: inc/consultstreet/front-page/extra-brightpress-testimonial.php:5
+#: inc/consultstreet/front-page/extra-consultstreet-testimonial.php:5
+msgid "What our customers are saying about us after using our products."
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:47
+#: inc/designexo/front-page/extra-designexo-slider.php:95
+msgid "What we think, we become"
+msgstr ""
+
+#: inc/designexo/customizer/extra-designexo-customizer-default.php:95
+#: inc/designexo/front-page/extra-designexo-theme-info.php:57
+msgid "Whats included"
+msgstr ""

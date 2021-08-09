@@ -1,0 +1,417 @@
+@charset "UTF-8";
+/*!
+Instock Editor Styles
+*/
+@import url('https://fonts.googleapis.com/css?family=Merriweather:500|PT+Sans:400,400i,500,500i&display=swap');
+:root {
+  --rubik: 'Rubik', sans-serif;
+  --font-size: 1.6rem;
+  --line-height: 2.8rem;
+  --white-color: #fff;
+  --black-color: #212121;
+  --primary-color: #e31c25;
+  --primary-color-alt: #f2f2f2;
+  --secondary-color: var(--primary-color-alt);
+  --tertiary-color: var(--secondary-color);
+  --border-color: #e2e4e8;
+  --primary-text-color: var(--black-color);
+  --secondary-text-color: #aaa;
+  --heading-text-color: var(--black-color);
+}
+
+/** === Editor Frame === */
+body .wp-block[data-align='full'] {
+  width: 100%;
+}
+@media (min-width: 480px) {
+  body .wp-block[data-align='full'] {
+    width: calc(100% + 90px);
+    max-width: calc(100% + 90px);
+  }
+}
+@media (min-width: 768px) {
+  body .editor-writing-flow {
+    max-width: 80%;
+    margin: 0 10%;
+  }
+  body .editor-post-title__block,
+  body .editor-default-block-appender,
+  body .editor-block-list__block {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body .wp-block[data-align='wide'] {
+    width: 100%;
+  }
+  body .wp-block[data-align='full'] {
+    position: relative;
+    left: calc(-12.5% - 14px);
+    width: calc(125% + 116px);
+    max-width: calc(125% + 115px);
+  }
+  body .wp-block[data-align='right'] {
+    max-width: 125%;
+  }
+}
+
+/** === Content Width === */
+.wp-block {
+  width: calc(100vw - (2 * 1em));
+  max-width: 100%;
+}
+@media (min-width: 768px) {
+  .wp-block {
+    width: calc(8 * (100vw / 12));
+  }
+}
+@media (min-width: 1280px) {
+  .wp-block {
+    width: calc(6 * (100vw / 12));
+  }
+}
+.wp-block .wp-block {
+  width: 100%;
+}
+
+/** === Base Typography === */
+body {
+  font-family: var(--rubik);
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 26px;
+  color: var(--black-color);
+}
+
+p {
+  font-size: 16px;
+}
+
+/**
+ * Set link colors.
+ */
+a {
+  transition: all 200ms ease-in-out 0s;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+a:visited {
+  color: var(--primary-color);
+}
+a:hover,
+a:visited:hover {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+/**
+ * Headings.
+ */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--rubik);
+  font-weight: 500;
+  margin: calc(var(--line-height) / 2) 0;
+  color: var(--heading-text-color);
+}
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: var(--heading-text-color);
+}
+h1 a:visited,
+h2 a:visited,
+h3 a:visited,
+h4 a:visited,
+h5 a:visited,
+h6 a:visited {
+  color: var(--heading-text-color);
+}
+
+h1,
+.h1 {
+  font-size: 3rem;
+  line-height: 3.3rem;
+}
+@media (min-width: 576px) {
+  h1,
+  .h1 {
+    font-size: 3.6rem;
+    line-height: 3.96rem;
+  }
+}
+
+h2,
+.h2 {
+  font-size: 2.4rem;
+  line-height: 3.4rem;
+}
+@media (min-width: 576px) {
+  h2,
+  .h2 {
+    font-size: 3rem;
+    line-height: 3.3rem;
+  }
+}
+
+h3,
+.h3 {
+  font-size: 2.4rem;
+  line-height: 3.12rem;
+}
+
+h4,
+.h4 {
+  font-size: 2rem;
+  line-height: 2.6rem;
+}
+
+h5,
+.h5 {
+  font-size: 1.6rem;
+}
+
+h6,
+.h6 {
+  font-size: 1.4rem;
+}
+
+/**
+ * Text elements.
+ */
+p {
+  margin: 0 0 var(--line-height);
+}
+
+abbr[title],
+dfn[title] {
+  cursor: help;
+}
+
+del {
+  vertical-align: baseline;
+  text-decoration: line-through;
+  color: #aaa;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-size: var(--font-size);
+}
+
+pre {
+  margin: var(--line-height) 0;
+  padding: var(--line-height);
+  padding-left: var(--line-height) !important;
+  padding-right: var(--line-height) !important;
+  color: #2080ad;
+  background-color: #fafafa;
+}
+
+code {
+  color: #2080ad;
+}
+
+blockquote {
+  font-style: italic;
+  margin: var(--line-height) 4rem;
+  padding-left: 2rem;
+  color: #777;
+  border-left: 0.3rem solid #555;
+}
+blockquote cite {
+  position: relative;
+  display: block;
+  padding: 1rem 0 0 2rem;
+  color: #555;
+}
+blockquote cite:before {
+  position: absolute;
+  left: 0;
+  content: '\2014';
+}
+
+q:before,
+q:after,
+blockquote:before,
+blockquote:after {
+  content: '';
+}
+
+address {
+  display: block;
+  margin: 0 0 var(--line-height);
+}
+
+ul,
+ol {
+  margin: var(--font-size) 0;
+  padding: 0 0 0 var(--line-height);
+}
+
+ul {
+  list-style: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol ol {
+  list-style: upper-alpha;
+}
+
+ol ol ol {
+  list-style: lower-roman;
+}
+
+ol ol ol ol {
+  list-style: lower-alpha;
+}
+
+li ul,
+li ol {
+  margin: 0;
+}
+
+dl {
+  margin: var(--line-height);
+}
+
+dt {
+  font-weight: 500;
+}
+
+dd {
+  margin-bottom: var(--line-height);
+}
+
+hr {
+  clear: both;
+  height: 0.1rem;
+  min-height: 0;
+  margin: var(--line-height) 0;
+  border-top: 0.1rem solid var(--border-color);
+  border-right: 0;
+  border-bottom: 0;
+  border-left: 0;
+}
+hr.dotted {
+  border-style: dotted;
+}
+hr.dashed {
+  border-style: dashed;
+}
+hr.blackborder {
+  border-color: #000;
+}
+hr.whiteborder {
+  border-color: #fff;
+}
+
+/**
+ * Print styles.
+ */
+@media print {
+  * {
+    color: #000 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: ' (' attr(href) ')';
+  }
+
+  abbr[title]:after {
+    content: ' (' attr(title) ')';
+  }
+
+  .ir a:after,
+  a[href^='javascript:']:after,
+  a[href^='#']:after {
+    content: '';
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #999;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 0.5cm;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
+h1,
+.h1 {
+  font-size: 36px;
+  line-height: 39.6px;
+}
+
+h2,
+.h2 {
+  font-size: 30px;
+  line-height: 33px;
+}
+
+h3,
+.h3 {
+  font-size: 24px;
+  line-height: 31.2px;
+}
+
+h4,
+.h4 {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+/** === Default Appender === */
+.editor-default-block-appender .editor-default-block-appender__content {
+  font-size: 16px;
+  font-family: var(--rubik);
+}
+
+.wp-block-heading strong {
+  font-weight: bold;
+}
